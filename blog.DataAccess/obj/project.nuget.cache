@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PmytUffyFAhCHH+EmQ8HaLcb1U0EwGCiviCgMSM6n6i+as02c+Ca+e/7kiZl8cWWGpMn4kqP/mjmDqy8CekcwQ==",
+  "dgSpecHash": "JLi++3by83M5saT0FORLaEOF7u3T4xa3xlpIStqcT5Tks0ayMok/1r8bqzLwexUKtlNe8FBsfUkluJUg6FAzDA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\sampa\\Desktop\\asp\\blog\\blog.asp.net6\\Blog\\blog.DataAccess\\blog.DataAccess.csproj",
+  "projectFilePath": "C:\\Users\\sampa\\Desktop\\asp\\blog\\asp.net.6\\blog.DataAccess\\blog.DataAccess.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sampa\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\sampa\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
